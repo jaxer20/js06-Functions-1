@@ -40,3 +40,4 @@
 // 
 let toplam4 = (a, b) => {return (a + b)} 
 console.log(toplam4(5, 10));
+ 
